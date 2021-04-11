@@ -1,1 +1,7 @@
 ths is version two of my software
+
+daylight = "dark"
+if daylight == 'dark':
+	print("Good Evening")
+else:
+	print("Good Morning")
